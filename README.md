@@ -1,7 +1,7 @@
 Olá, meu nome é Vinicius, sou desenvolvedor de Front-End e Back-End. 
 Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato comigo.
 
-🦄 Linguagens: HTML, CSS, JavaScript, Bootstrap, PHP, MySql e NodeJS.
+💻 Linguagens: <b>HTML, CSS, JavaScript, Bootstrap, PHP, MySql e NodeJS.</b>
 
 💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:  ⤵️
 
