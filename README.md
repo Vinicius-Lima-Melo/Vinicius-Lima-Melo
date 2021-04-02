@@ -5,11 +5,11 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:  ⤵️
 
-<a href="https://viniciuslimamelo.com">
+<a href="https://www.facebook.com/profile.php?id=100019508536454" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <a/>
   
-  <a href="https://viniciuslimamelo.com">
+  <a href="https://www.instagram.com/Viniih_lima/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a/>
   
@@ -17,7 +17,7 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a/>
   
-  <a href="https://viniciuslimamelo.com">
+  <a href="https://linkedin.com/in/vinicius-lima-melo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
 
