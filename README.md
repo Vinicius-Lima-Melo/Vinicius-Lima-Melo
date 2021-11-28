@@ -1,3 +1,5 @@
+    
+ <!--- 
 Olá, meu nome é Vinicius, sou desenvolvedor de Front-End e Back-End. 
 Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato comigo.
 
@@ -21,7 +23,7 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
 
-
+--->
 
 [![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=dark)](https://github.com/vinicius-lima-melo/)
 
