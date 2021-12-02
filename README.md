@@ -30,7 +30,7 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 <!---[![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact&theme=dark)](https://github.com/vinicius-lima-melo/)--->
 
-[![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical)](https://github.com/vinicius-lima-melo/)
+[![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical&title_color=9600fa&text_color=2bff00&icon_color=9600fa&border_color=9600fa)](https://github.com/vinicius-lima-melo/)
 
     
  <!--- Vinicius-Lima-Melo/Vinicius-Lima-Melo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
