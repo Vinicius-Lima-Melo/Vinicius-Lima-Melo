@@ -40,3 +40,7 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
+
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-melo&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
