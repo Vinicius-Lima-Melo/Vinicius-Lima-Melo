@@ -30,9 +30,12 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 [![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=9600fa&text_color=2bff00&show_icons=true&icon_color=9600fa&border_color=9600fa&count_private=true)](https://github.com/vinicius-lima-melo/)
 
-[![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical&title_color=9600fa&text_color=2bff00&icon_color=9600fa&border_color=9600fa)](https://github.com/vinicius-lima-melo/)
+<!-- [![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical&title_color=9600fa&text_color=2bff00&icon_color=9600fa&border_color=9600fa)](https://github.com/vinicius-lima-melo/) -->
 
 <!-- <summary>Profile visitors</summary> -->
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-melo&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/vinicius-lima-melo/count.svg">
@@ -45,6 +48,4 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&cover_image=false&theme=default&bar_color=971ad1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&redirect=true)
 
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-melo&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
+
