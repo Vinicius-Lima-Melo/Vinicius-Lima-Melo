@@ -41,6 +41,11 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
     <img alt="visitors counter" src="https://profile-counter.glitch.me/vinicius-lima-melo/count.svg">
 </div>
 
+<div>
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
+</div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
