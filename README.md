@@ -1,5 +1,5 @@
     
- <!--- 
+<!--  - 
 Olá, meu nome é Vinicius, sou desenvolvedor de Front-End e Back-End. 
 Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato comigo.
 
@@ -23,32 +23,33 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
 
---->
+- -->
 
 
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=39d353&text_color=39d353&show_icons=true&icon_color=006d32&border_color=0d1117&count_private=true)](https://github.com/vinicius-lima-melo/)
 
-<!-- [![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical&title_color=9600fa&text_color=2bff00&icon_color=9600fa&border_color=9600fa)](https://github.com/vinicius-lima-melo/) -->
-
+<!-- [![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical&title_color=9600fa&text_color=2bff00&icon_color=9600fa&border_color=9600fa)](https://github.com/vinicius-lima-melo/)
+ -->
 <!-- <summary>Profile visitors</summary> -->
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<!--  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-melo&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-<p align="center">:round_pushpin: Profile visitors</p>
+    </a> -->
+
+<!-- <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/vinicius-lima-melo/count.svg">
-</div>
+</div> -->
 
-<div>
+<!-- <div>
     <img alt="commits today" src="https://badges.pufler.dev/commits/daily/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
     <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
     <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
-</div>
+</div> -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=000&line=006d32&point=39d353&color=39d353&area_color=39d353">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=0D1117&line=006d32&point=39d353&color=39d353&area_color=39d353">
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&cover_image=false&theme=default&bar_color=971ad1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&redirect=true)
