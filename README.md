@@ -48,7 +48,7 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=000&line=006d32&point=39d353&color=39d353&area_color=39d353">
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&cover_image=false&theme=default&bar_color=971ad1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&redirect=true)
