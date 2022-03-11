@@ -28,7 +28,6 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=39d353&text_color=39d353&show_icons=true&icon_color=006d32&border_color=0d1117&count_private=true)](https://github.com/vinicius-lima-melo/)
 
 <!-- [![vinicius-lima-melo](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-melo&hide=html&layout=compact=true&theme=radical&title_color=9600fa&text_color=2bff00&icon_color=9600fa&border_color=9600fa)](https://github.com/vinicius-lima-melo/)
  -->
@@ -122,3 +121,5 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 <br/>  
 
+
+[![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=39d353&text_color=39d353&show_icons=true&icon_color=006d32&border_color=0d1117&count_private=true)](https://github.com/vinicius-lima-melo/)
