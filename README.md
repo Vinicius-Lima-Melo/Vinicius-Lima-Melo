@@ -49,7 +49,7 @@ Estou disponível para freelas/trabalho, caso precise contratar meu serviço ent
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=39d353&text_color=39d353&show_icons=true&icon_color=006d32&border_color=0d1117&count_private=true)](https://github.com/vinicius-lima-melo/)
+[![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=39d353&text_color=39d353&show_icons=true&icon_color=006d32&border_color=006d32&bg_color=0D1117&count_private=true)](https://github.com/vinicius-lima-melo/)
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
