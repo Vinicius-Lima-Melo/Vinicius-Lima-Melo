@@ -9,11 +9,6 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/vinicius-lima-melo/count.svg">
 </div> -->
 
-<!-- <div>
-    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/vinicius-lima-melo?color=181717&style=for-the-badge&labelColor=7E3ACE">
-</div> -->
 
 
 
