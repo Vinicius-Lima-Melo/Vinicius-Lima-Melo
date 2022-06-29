@@ -10,7 +10,7 @@
 </div> -->
 
 
-
+<p style='color: 00DDF5'> ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=00DDF5&text_color=00DDF5&show_icons=true&icon_color=098795&border_color=00DDF5&bg_color=0D1117&count_private=true)](https://github.com/vinicius-lima-melo/)
 
