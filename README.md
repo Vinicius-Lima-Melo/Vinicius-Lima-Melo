@@ -9,17 +9,11 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/vinicius-lima-melo/count.svg">
 </div> -->
 
-
-<p style='color: 00DDF5'> ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</p>
-
 [![card](https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=00DDF5&text_color=00DDF5&show_icons=true&icon_color=098795&border_color=00DDF5&bg_color=0D1117&count_private=true)](https://github.com/vinicius-lima-melo/)
-
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=0D1117&line=00DDF5&point=00DDF5&color=00DDF5&area_color=00ddf570">
 </a>
-
-
 
 <br/>  
 
