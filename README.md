@@ -1,8 +1,4 @@
 
-<!-- <summary>Profile visitors</summary> -->
-<!--  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-melo&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a> -->
 
 <!-- <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
