@@ -14,4 +14,3 @@
 <br/>  
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&cover_image=true&theme=novatorem&bar_color=00DDF5&bar_color_cover=false&title_color=00DDF5)](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&redirect=true)
-
