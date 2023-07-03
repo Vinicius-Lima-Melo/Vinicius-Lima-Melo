@@ -15,7 +15,7 @@
 
 <br/><br/><br/>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicius-lima-melo&area=true&hide_border=true&bg_color=0D1117&line=971ad1&point=971ad1&color=971ad1&area_color=00ddf570)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius-lima-melo&bg_color=0D1117&color=971ad1&line=971ad1&point=971ad1&area=true&hide_border=true&area_color=00ddf570)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
 
