@@ -32,9 +32,19 @@
 </div> -->
 <br/>
 <p align="center">
+
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=971ad1&text_color=971ad1&show_icons=true&icon_color=098795&border_color=971ad1&bg_color=0D1117&count_private=true" />
+  <source
+   srcset="https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=971ad1&text_color=971ad1&show_icons=true&icon_color=098795&border_color=971ad1&bg_color=0D1117&count_private=true" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=971ad1&text_color=971ad1&show_icons=true&icon_color=098795&border_color=971ad1&bg_color=0D1117&count_private=true" 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=971ad1&text_color=971ad1&show_icons=true&icon_color=098795&border_color=971ad1&bg_color=0D1117&count_private=true"  />
 </picture>
+    
 </p>
 
 <!-- <p align="center">
