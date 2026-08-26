@@ -36,7 +36,7 @@
 
 <picture>
   <source
-   srcset="https://github-readme-stats.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=6a0dad&text_color=6a0dad&show_icons=true&icon_color=098795&border_color=6a0dad&bg_color=0D1117&count_private=true" 
+   srcset="https://github-readme-stats-extended.vercel.app/api?username=vinicius-lima-melo&theme=radical&title_color=6a0dad&text_color=6a0dad&show_icons=true&icon_color=098795&border_color=6a0dad&bg_color=0D1117&count_private=true" 
     media="(prefers-color-scheme: dark)"
   />
   <source
