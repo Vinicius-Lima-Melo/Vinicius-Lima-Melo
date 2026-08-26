@@ -53,15 +53,19 @@
 </p> -->
 
 <p align="center">
+  <img height="150em" align="center" src="./project-card.svg" alt="web-copilot" />
+</p>
+
+<!-- <p align="center">
   <a href="https://github.com/vinicius-lima-melo/web-copilot">
     <img height="150em" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vinicius-lima-melo&repo=web-copilot&show_icons=true&bg_color=0D1117&title_color=6a0dad&border_color=6a0dad&text_color=8b949e&icon_color=098795" alt="vinicius-lima-melo/web-copilot" />
     </a>
-</p>
+</p> -->
 
 <br/><br/><br/>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius-lima-melo&bg_color=0D1117&color=6a0dad&line=6a0dad&point=6a0dad&area=true&hide_border=true&area_color=00ddf570)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius-lima-melo&bg_color=0D1117&color=6a0dad&line=6a0dad&point=6a0dad&area=true&hide_border=true&area_color=00ddf570)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 <br/>  
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&cover_image=true&theme=novatorem&bar_color=6a0dad&bar_color_cover=false&title_color=00DDF5)](https://spotify-github-profile.vercel.app/api/view?uid=313sdjpc2346zkyfty5ambfw4r54&redirect=true)-->
