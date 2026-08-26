@@ -53,7 +53,7 @@
 </p> -->
 
 <p align="center">
-  <img height="150em" align="center" src="./project-card.svg" alt="web-copilot" />
+  <img height="150em" align="center" src="./projectcard.svg" alt="web-copilot" />
 </p>
 
 <!-- <p align="center">
